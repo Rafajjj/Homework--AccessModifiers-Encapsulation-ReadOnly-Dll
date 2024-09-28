@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Homework - AccessModifiers-Encapsulation-ReadOnly-/1.0.0": {
+        "runtime": {
+          "Homework - AccessModifiers-Encapsulation-ReadOnly-.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework - AccessModifiers-Encapsulation-ReadOnly-/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

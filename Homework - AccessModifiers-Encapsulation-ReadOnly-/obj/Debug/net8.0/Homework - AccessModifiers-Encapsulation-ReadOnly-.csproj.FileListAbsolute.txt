@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Homework - AccessModifiers-Encapsulation-ReadOnly-\obj\Debug\net8.0\Homework - AccessModifiers-Encapsulation-ReadOnly-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Homework - AccessModifiers-Encapsulation-ReadOnly-\obj\Debug\net8.0\Homework - AccessModifiers-Encapsulation-ReadOnly-.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Homework - AccessModifiers-Encapsulation-ReadOnly-\obj\Debug\net8.0\Homework - AccessModifiers-Encapsulation-ReadOnly-.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Homework - AccessModifiers-Encapsulation-ReadOnly-\obj\Debug\net8.0\Homework - AccessModifiers-Encapsulation-ReadOnly-.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Homework - AccessModifiers-Encapsulation-ReadOnly-\bin\Debug\net8.0\Homework - AccessModifiers-Encapsulation-ReadOnly-.exe
+C:\Users\Lenovo\Desktop\Homework - AccessModifiers-Encapsulation-ReadOnly-\bin\Debug\net8.0\Homework - AccessModifiers-Encapsulation-ReadOnly-.deps.json
+C:\Users\Lenovo\Desktop\Homework - AccessModifiers-Encapsulation-ReadOnly-\bin\Debug\net8.0\Homework - AccessModifiers-Encapsulation-ReadOnly-.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Homework - AccessModifiers-Encapsulation-ReadOnly-\bin\Debug\net8.0\Homework - AccessModifiers-Encapsulation-ReadOnly-.dll
+C:\Users\Lenovo\Desktop\Homework - AccessModifiers-Encapsulation-ReadOnly-\bin\Debug\net8.0\Homework - AccessModifiers-Encapsulation-ReadOnly-.pdb
+C:\Users\Lenovo\Desktop\Homework - AccessModifiers-Encapsulation-ReadOnly-\obj\Debug\net8.0\Homework - AccessModifiers-Encapsulation-ReadOnly-.dll
+C:\Users\Lenovo\Desktop\Homework - AccessModifiers-Encapsulation-ReadOnly-\obj\Debug\net8.0\refint\Homework - AccessModifiers-Encapsulation-ReadOnly-.dll
+C:\Users\Lenovo\Desktop\Homework - AccessModifiers-Encapsulation-ReadOnly-\obj\Debug\net8.0\Homework - AccessModifiers-Encapsulation-ReadOnly-.pdb
+C:\Users\Lenovo\Desktop\Homework - AccessModifiers-Encapsulation-ReadOnly-\obj\Debug\net8.0\Homework - AccessModifiers-Encapsulation-ReadOnly-.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Homework - AccessModifiers-Encapsulation-ReadOnly-\obj\Debug\net8.0\ref\Homework - AccessModifiers-Encapsulation-ReadOnly-.dll
